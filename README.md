@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Likhitha Tanuboddi 👋
 
-<!--
-**likhitha58/likhitha58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pre-final year Computer Science student pursuing a Finance minor.  
+Passionate about building modern web apps with the MERN stack and fintech solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on full-stack finance projects  
+- 🌱 Learning advanced full-stack development  
+- 💼 Interested in fintech, startup financing, and smart task management  
+- 📫 Reach me at: [likhithatanuboddi58@gmail.com]  
+
+---
+
+### 🛠️ Skills
+- **Frontend:** React, React-Bootstrap, Vite, JavaScript, CSS  
+- **Backend:** Node.js, Express, MongoDB, SQL Server  
+- **Finance:** Financial institutions and markets, startup funding, fintech solutions
+
+---
