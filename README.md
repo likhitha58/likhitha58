@@ -19,3 +19,5 @@ Passionate about building modern web apps with the MERN stack and fintech soluti
 - **Finance:** Financial institutions and markets, startup funding, fintech solutions
 
 ---
+
+Thanks for stopping by! Feel free to connect 👋
