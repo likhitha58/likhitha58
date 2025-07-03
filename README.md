@@ -14,6 +14,8 @@ Passionate about building modern web apps with the MERN stack and fintech soluti
 ---
 
 ### 🛠️ Skills
+
+- **Languages:** C, C++, Python, JavaScript
 - **Frontend:** React, React-Bootstrap, Vite, JavaScript, CSS  
 - **Backend:** Node.js, Express, MongoDB, SQL Server  
 - **Finance:** Financial institutions and markets, startup funding, fintech solutions
