@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Likhitha Tanuboddi</h1>
+<h1 align="center">Hi, I'm Likhitha Tanuboddi</h1>
 <h3 align="center">Empowering Ideas with Code | MERN Stack + AI + FinTech</h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/8f20f2c8f97c0ef10c6fb25a7fca6510.gif">
@@ -25,7 +25,7 @@
 ## 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,bootstrap,figma,git,github,mysql,py" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,php,html,css,bootstrap,figma,git,github,mysql,py" />
 </p>
 
 ---
