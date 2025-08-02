@@ -19,7 +19,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhitha-tanuboddi-05a34a289/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:likhithatanuboddi58@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://likhithatanuboddi.netlify.app/)
 
 ---
