@@ -8,9 +8,8 @@
 ## 👩‍💻 About Me
 
 -  Pursuing **Computer Science Major** + **Finance Minor**.
--  I’m currently building **Smart Task** — a feature-rich task manager using MERN stack.
 -  Exploring AI integration in **Full Stack** and **Finance** domains.
--  Interested in **Full Stack Dev**, **NLP**, **FinTech**, and **Startup Tools**.
+-  Interested in **Full Stack Dev**, **NLP**, **FinTech**.
 -  I believe in building projects that blend **tech + real-world solutions + business impact**.
 -  **Portfolio:** [Likhitha Tanuboddi](https://likhithatanuboddi.netlify.app/)
 
